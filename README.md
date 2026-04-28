@@ -8,3 +8,5 @@ I designed components in Sketch that when approved needed to be styled using JSO
 
 Another tool I created was a C# Xamarin Mac application that took raw JSON and converted it to literal strings for easier reading and scanning. While this part wasn't essential for the final consumption of components it proved to be a better user experience for internal users and clients.
 
+See it live:
+https://codepen.io/gegagome/project/editor/XwBLOw
